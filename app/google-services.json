@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "571649286125",
+    "project_id": "gramakalyanasports-6fb7b",
+    "storage_bucket": "gramakalyanasports-6fb7b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571649286125:android:24ab56047c28be641b91e4",
+        "android_client_info": {
+          "package_name": "com.example.grama_kalyanasports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571649286125-j732q07fll0misvie7bmb436rr6tkvhf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.grama_kalyanasports",
+            "certificate_hash": "ce147eda2140195982faacc75f8a2aa7f2a2bebb"
+          }
+        },
+        {
+          "client_id": "571649286125-0cbbd227r7m2uj149bqlhi42lgsjj48l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANH0PSFHcx9AWHVvQe11IZnucHPKapQ54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571649286125-0cbbd227r7m2uj149bqlhi42lgsjj48l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
